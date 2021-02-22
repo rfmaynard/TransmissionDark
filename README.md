@@ -1,7 +1,7 @@
 # TransmissionDark
 A dark mode UI for Transmission web
 
-https://i.imgur.com/ODuYqKY.png
+<img src="https://i.imgur.com/ODuYqKY.png" />
 
 SSH to your transmission host and go to the directory
 /usr/share/transmission/web/style/transmission
